@@ -1,0 +1,2 @@
+000001, Apples, Red, sweet, tasty, 2.00
+000002, bananas, yesllow, long, sweet, 1.00

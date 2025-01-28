@@ -1,0 +1,3 @@
+000001, Toothpaste, minty, blue, 5.00
+000002, Floss, white, minty, string, 2.00
+000003, mouthwash, minty, liquid, 7.00
